@@ -1,0 +1,6 @@
+.widget{
+    display:flex;
+    flex: 0.3;
+
+    border-style:groove;
+}

@@ -1,0 +1,6 @@
+.main{
+    display: flex;
+    flex: 0.4;
+    border-style: groove;
+    margin-top: -7px;
+}
